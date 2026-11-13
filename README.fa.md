@@ -58,7 +58,6 @@ admin1@example.com
 manager@example.com
 ```
 
-آدرس‌های واقعی سازمان را در مخزن عمومی GitHub قرار ندهید.
 
 ## نمونه استفاده
 
