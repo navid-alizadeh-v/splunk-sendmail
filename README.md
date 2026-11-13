@@ -233,3 +233,18 @@ See [Security Guide](docs/SECURITY.md).
 ## License
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE).
+
+---
+
+# 👤 Author
+
+**Navid Alizadeh**
+
+www.linkedin.com/in/navid-alizadeh-vaghasloo
+
+Security Operations Center Analyst
+Splunk | SOC | Threat Detection | Incident Response
+
+---
+
+⭐ If this project is useful to you, consider giving the repository a star.
