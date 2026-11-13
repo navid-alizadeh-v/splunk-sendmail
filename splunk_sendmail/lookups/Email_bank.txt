@@ -1,0 +1,24 @@
+
+# Splunk SendMail - Centralized Recipient Groups
+#
+# Format:
+# [group_name]
+# email1@company.com
+# email2@company.com
+#
+# One email address per line.
+# Lines beginning with # are comments.
+
+[soc]
+soc1@example.com
+soc2@example.com
+
+[infra]
+admin1@example.com
+admin2@example.com
+
+[manager]
+manager@example.com
+
+[test]
+test@example.com

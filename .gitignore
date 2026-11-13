@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local secrets and environment-specific recipient lists
+.env
+.env.*
+*.secret
+Email_bank.local.txt
+Email_bank.production.txt
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+
+
+[commands/sendmail]
+access = read : [ * ]
+export = system
